@@ -35,7 +35,9 @@ sudo apt-get install python-opencv
 * We can do this by utilizing a Convex Hull
 * A convex hull draws a polygon by connecting points around the most external points in a frame
 * In our case, this set of points is actually just our threshold image of a hand. 
-
+* We can expect a general shape of our polygon to be something like 
+* Then using a ratio of that distance we create a circle
+* Any points outside of this circle far away enough from the bottom, should be extended fingers
 
 ## Working 
 
