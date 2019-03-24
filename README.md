@@ -43,3 +43,13 @@ sudo apt-get install python-opencv
 
 #### Image-
 ![Image of segmented hand region](https://github.com/aakashjhawar/Hand-Gesture-Recognition/blob/master/images/hand_convex.png)
+
+
+## Result-
+![One](https://github.com/aakashjhawar/Hand-Gesture-Recognition/blob/master/images/one.png)
+![Two](https://github.com/aakashjhawar/Hand-Gesture-Recognition/blob/master/images/two.png)
+![Three](https://github.com/aakashjhawar/Hand-Gesture-Recognition/blob/master/images/three.png)
+![Four](https://github.com/aakashjhawar/Hand-Gesture-Recognition/blob/master/images/four.png)
+![Five](https://github.com/aakashjhawar/Hand-Gesture-Recognition/blob/master/images/five.png)
+
+###### *Some image segmentation are not proper as the lighting in the room was uneven.*
